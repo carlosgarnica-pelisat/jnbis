@@ -14,7 +14,7 @@ You can find more about NIST Biometric Image Software [here](http://www.nist.gov
 This version/fork is not available through Maven Central. You will need to clone the source code and build it with Maven. You need **JDK** version **1.8 or higher** to build the code.
 
 ```bash
-$ git clone git@github.com:argonaut-nz/jnbis.git
+$ git clone git@github.com:carlosgarnica-pelisat/jnbis.git
 $ cd jnbis
 $ mvn install
 ```
